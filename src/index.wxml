@@ -1,6 +1,0 @@
-<form class="ticket-report-wrapper" bindsubmit="reportTicket" report-submit>
-  <button id='button' class="submit-button" form-type="submit" />
-  <label for="button">
-    <slot></slot>
-  </label>
-</form>

@@ -1,7 +1,0 @@
-.ticket-report-wrapper {
-  display: block;
-}
-
-.ticket-report-wrapper .submit-button {
-  display: none;
-}
